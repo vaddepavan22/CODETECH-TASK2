@@ -14,3 +14,4 @@ PROJECT: STUDENT GRADE TRACKER
   2) obtain total gpa for a student 
   TECHNOLOGIES USED:
        Python 
+![task2](https://github.com/vaddepavan22/CODETECH-TASK2/assets/172257178/99aad64e-2ffa-4416-b2c6-f1cad6fe8c9e)
