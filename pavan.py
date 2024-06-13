@@ -1,3 +1,4 @@
+/* here i can declare class for student and i can define function for to calculate the avg,letter_grade and gpa.the main part contain student details */
 class Student:
     def __init__(self, name):
         self.name = name
